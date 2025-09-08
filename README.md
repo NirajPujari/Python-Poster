@@ -1,4 +1,4 @@
-# National Education Policy - Tkinter App
+# Python Poster - National Education Policy
 
 An interactive **Tkinter + Pillow** application showcasing the **National Education Policy (NEP)** with animations, graphics, and interactive panels.
 
