@@ -11,7 +11,7 @@ An interactive **Tkinter + Pillow** application showcasing the **National Educat
 <img src="assets/S3.png" alt="Home Page"/>
 <img src="assets/S4.png" alt="Home page with train"/>
 
----
+#
 
 ## ⚡ Features
 
@@ -21,7 +21,7 @@ An interactive **Tkinter + Pillow** application showcasing the **National Educat
 - Buttons for exploring NEP features
 - Organized assets in `/assets` folder
 
----
+#
 
 ## 📂 Project Structure
 
@@ -49,7 +49,7 @@ An interactive **Tkinter + Pillow** application showcasing the **National Educat
 └── setup.sh
 ```
 
----
+#
 
 ## 🚀 Installation & Running
 
@@ -87,11 +87,20 @@ pip install -r requirements.txt
   python3 main.py
   ```
 
+#
+
 ## 🛠 Requirements
 
 - Python 3.8+
 - tkinter (comes pre-installed with Python)
 - Pillow for image handling
+
+#
+
+### License
+MIT (or your chosen license).
+
+#
 
 ## 🙌 Credits
 
