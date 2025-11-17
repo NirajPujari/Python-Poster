@@ -4,17 +4,17 @@ echo  Setting up National Education Policy App
 echo ===============================
 
 REM Create virtual environment if not exists
-if not exist venv (
+IF NOT EXIST venv (
     python -m venv venv
 )
 
+echo Activating environment...
 call venv\Scripts\activate
 
-echo Installing dependencies...
+echo Installing requirements...
 pip install -r requirements.txt
 
-echo.
-echo Starting Application...
-python main.py
+echo Starting program...
+python src/main.py
 
 pause

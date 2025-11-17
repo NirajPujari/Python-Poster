@@ -15,4 +15,4 @@ pip install -r requirements.txt
 
 echo
 echo "Starting Application..."
-python3 main.py
+python3 src/main.py
